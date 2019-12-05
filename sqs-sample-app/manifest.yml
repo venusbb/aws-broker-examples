@@ -1,0 +1,6 @@
+---
+applications:
+  - name: sqs-app
+
+services:
+  - sqs-1
